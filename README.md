@@ -15,5 +15,6 @@ Execução:
     4.1. Criar permissão do S3 no lambda
     
       4.1.1 Ir em confirações, ao abrir nova tela criar permissão, adicionar nova política, colocar o S3 como serviço, adicionar objeto Get_object e dar permissão no ARN
+    4.2. Adicionar arquivo dados.csv no bucket
   5. Criar endpoint da VPC para dar autorização ao S3
   6. Criar RDS e instacia do banco dados MySQL
